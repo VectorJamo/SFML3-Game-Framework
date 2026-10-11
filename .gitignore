@@ -1,0 +1,12 @@
+.vs/
+bin/
+bin-int/
+SFML3-Game-Framework.sln
+SFML3-Game-Framework.xcworkspace
+
+SFML3-Game-Framework/*
+!SFML3-Game-Framework/src/
+!SFML3-Game-Framework/src/**
+!SFML3-Game-Framework/res/
+!SFML3-Game-Framework/res/**
+
